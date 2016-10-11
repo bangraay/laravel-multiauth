@@ -1,5 +1,6 @@
 # laravel-multiauth
 =====================
+laravel 5.2
 
 ## How to Install and Config
 ### -Composer Update
